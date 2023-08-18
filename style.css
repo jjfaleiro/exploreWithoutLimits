@@ -214,7 +214,7 @@ footer p {
   font-weight: 600;
 }
 
-@media (min-width: 1320px) {
+@media (min-width: 1200px) {
   header {
     display: grid;
     grid-template-columns: 45% 55%;
@@ -226,8 +226,8 @@ footer p {
 
   header img:first-child {
     grid-area: img;
-    width: 72rem;
-    height: 72rem;
+    width: 65rem;
+    height: 65rem;
   }
 
   header #content {
